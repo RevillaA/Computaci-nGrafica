@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F5E4F347-C283-4D11-B6DE-D4A83FB39499}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AreasYPerimetros</RootNamespace>
+    <AssemblyName>AreasYPerimetros</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CCuadrado.cs" />
+    <Compile Include="CDeltoide.cs" />
+    <Compile Include="CCírculo.cs" />
+    <Compile Include="CElipse.cs" />
+    <Compile Include="COvalo.cs" />
+    <Compile Include="CPoligonos.cs" />
+    <Compile Include="CRomboide.cs" />
+    <Compile Include="CTrapecio.cs" />
+    <Compile Include="CTrapezoide.cs" />
+    <Compile Include="CRombo.cs" />
+    <Compile Include="CRectangulo.cs" />
+    <Compile Include="CTriangulo.cs" />
+    <Compile Include="FrmOvalo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOvalo.Designer.cs">
+      <DependentUpon>FrmOvalo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHome.Designer.cs">
+      <DependentUpon>FrmHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTrapezoide.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTrapezoide.Designer.cs">
+      <DependentUpon>FrmTrapezoide.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRomboide.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRomboide.Designer.cs">
+      <DependentUpon>FrmRomboide.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDeltoide.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDeltoide.Designer.cs">
+      <DependentUpon>FrmDeltoide.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTrapecio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTrapecio.Designer.cs">
+      <DependentUpon>FrmTrapecio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPoligonos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPoligonos.Designer.cs">
+      <DependentUpon>FrmPoligonos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRombo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRombo.Designer.cs">
+      <DependentUpon>FrmRombo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRectangulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRectangulo.Designer.cs">
+      <DependentUpon>FrmRectangulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCuadrado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCuadrado.Designer.cs">
+      <DependentUpon>FrmCuadrado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmElipse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmElipse.Designer.cs">
+      <DependentUpon>FrmElipse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCírculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCírculo.Designer.cs">
+      <DependentUpon>FrmCírculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTriangulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTriangulo.Designer.cs">
+      <DependentUpon>FrmTriangulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmOvalo.resx">
+      <DependentUpon>FrmOvalo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDeltoide.resx">
+      <DependentUpon>FrmDeltoide.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHome.resx">
+      <DependentUpon>FrmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRomboide.resx">
+      <DependentUpon>FrmRomboide.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTrapecio.resx">
+      <DependentUpon>FrmTrapecio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCuadrado.resx">
+      <DependentUpon>FrmCuadrado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCírculo.resx">
+      <DependentUpon>FrmCírculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmElipse.resx">
+      <DependentUpon>FrmElipse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPoligonos.resx">
+      <DependentUpon>FrmPoligonos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRectangulo.resx">
+      <DependentUpon>FrmRectangulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRombo.resx">
+      <DependentUpon>FrmRombo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTrapezoide.resx">
+      <DependentUpon>FrmTrapezoide.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTriangulo.resx">
+      <DependentUpon>FrmTriangulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Triangulo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circulo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circulo-400x400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circulo-250x250.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\triangulo-400x400.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\triangulo %281%29-200x200.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\triangulo %281%29-300x300.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Trapezoid-300x220.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images-300x220.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\area-del-romboide-300x300.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rombo-300x300.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rectangulo-300x300.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\poligonos_regulares-300x300.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Elipse-300x220.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deltoide-300x300.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cuadrado300x300.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circulo-300x300.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ovalo300.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Poligonos300.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
