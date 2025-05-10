@@ -73,39 +73,9 @@ namespace AreasYPerimetros.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap circulo {
-            get {
-                object obj = ResourceManager.GetObject("circulo", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap circulo_250x250 {
-            get {
-                object obj = ResourceManager.GetObject("circulo-250x250", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap circulo_300x300 {
             get {
                 object obj = ResourceManager.GetObject("circulo-300x300", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap circulo_400x400 {
-            get {
-                object obj = ResourceManager.GetObject("circulo-400x400", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -163,16 +133,6 @@ namespace AreasYPerimetros.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap poligonos_regulares_300x300 {
-            get {
-                object obj = ResourceManager.GetObject("poligonos_regulares-300x300", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap Poligonos300 {
             get {
                 object obj = ResourceManager.GetObject("Poligonos300", resourceCulture);
@@ -213,39 +173,9 @@ namespace AreasYPerimetros.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Triangulo {
-            get {
-                object obj = ResourceManager.GetObject("Triangulo", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap triangulo__1__200x200 {
-            get {
-                object obj = ResourceManager.GetObject("triangulo (1)-200x200", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap triangulo__1__300x300 {
             get {
                 object obj = ResourceManager.GetObject("triangulo (1)-300x300", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap triangulo_400x400 {
-            get {
-                object obj = ResourceManager.GetObject("triangulo-400x400", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

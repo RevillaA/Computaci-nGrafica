@@ -75,9 +75,9 @@
             "Octágono",
             "Eneágono",
             "Decágono"});
-            this.cmbNlados.Location = new System.Drawing.Point(259, 43);
+            this.cmbNlados.Location = new System.Drawing.Point(261, 43);
             this.cmbNlados.Name = "cmbNlados";
-            this.cmbNlados.Size = new System.Drawing.Size(140, 37);
+            this.cmbNlados.Size = new System.Drawing.Size(140, 30);
             this.cmbNlados.TabIndex = 3;
             // 
             // lblPoligono
@@ -86,16 +86,16 @@
             this.lblPoligono.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPoligono.Location = new System.Drawing.Point(15, 46);
             this.lblPoligono.Name = "lblPoligono";
-            this.lblPoligono.Size = new System.Drawing.Size(240, 29);
+            this.lblPoligono.Size = new System.Drawing.Size(189, 24);
             this.lblPoligono.TabIndex = 2;
             this.lblPoligono.Text = "Número de lados (n):";
             // 
             // txtLado
             // 
             this.txtLado.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtLado.Location = new System.Drawing.Point(260, 99);
+            this.txtLado.Location = new System.Drawing.Point(262, 99);
             this.txtLado.Name = "txtLado";
-            this.txtLado.Size = new System.Drawing.Size(89, 34);
+            this.txtLado.Size = new System.Drawing.Size(89, 28);
             this.txtLado.TabIndex = 1;
             // 
             // lblLado
@@ -104,7 +104,7 @@
             this.lblLado.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblLado.Location = new System.Drawing.Point(55, 102);
             this.lblLado.Name = "lblLado";
-            this.lblLado.Size = new System.Drawing.Size(200, 29);
+            this.lblLado.Size = new System.Drawing.Size(156, 24);
             this.lblLado.TabIndex = 0;
             this.lblLado.Text = "Longitud Lado (l):";
             // 
@@ -169,19 +169,19 @@
             // txtArea
             // 
             this.txtArea.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtArea.Location = new System.Drawing.Point(258, 75);
+            this.txtArea.Location = new System.Drawing.Point(260, 75);
             this.txtArea.Name = "txtArea";
             this.txtArea.ReadOnly = true;
-            this.txtArea.Size = new System.Drawing.Size(96, 30);
+            this.txtArea.Size = new System.Drawing.Size(96, 26);
             this.txtArea.TabIndex = 3;
             // 
             // txtPerimetro
             // 
             this.txtPerimetro.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtPerimetro.Location = new System.Drawing.Point(258, 30);
+            this.txtPerimetro.Location = new System.Drawing.Point(260, 30);
             this.txtPerimetro.Name = "txtPerimetro";
             this.txtPerimetro.ReadOnly = true;
-            this.txtPerimetro.Size = new System.Drawing.Size(96, 34);
+            this.txtPerimetro.Size = new System.Drawing.Size(96, 28);
             this.txtPerimetro.TabIndex = 2;
             // 
             // lblArea
@@ -190,19 +190,19 @@
             this.lblArea.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblArea.Location = new System.Drawing.Point(136, 74);
             this.lblArea.Name = "lblArea";
-            this.lblArea.Size = new System.Drawing.Size(106, 29);
+            this.lblArea.Size = new System.Drawing.Size(90, 24);
             this.lblArea.TabIndex = 1;
-            this.lblArea.Text = "Area (A):";
+            this.lblArea.Text = " Área (A):";
             // 
             // lblPerimetro
             // 
             this.lblPerimetro.AutoSize = true;
             this.lblPerimetro.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPerimetro.Location = new System.Drawing.Point(79, 31);
+            this.lblPerimetro.Location = new System.Drawing.Point(101, 33);
             this.lblPerimetro.Name = "lblPerimetro";
-            this.lblPerimetro.Size = new System.Drawing.Size(163, 29);
+            this.lblPerimetro.Size = new System.Drawing.Size(125, 24);
             this.lblPerimetro.TabIndex = 0;
-            this.lblPerimetro.Text = "Perimetro (P):";
+            this.lblPerimetro.Text = "Perímetro (P):";
             // 
             // grbImagenes
             // 
@@ -217,7 +217,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::AreasYPerimetros.Properties.Resources.Poligonos300;
-            this.pictureBox1.Location = new System.Drawing.Point(9, 19);
+            this.pictureBox1.Location = new System.Drawing.Point(10, 18);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(400, 400);
             this.pictureBox1.TabIndex = 0;
@@ -261,7 +261,7 @@
         private System.Windows.Forms.Label lblArea;
         private System.Windows.Forms.Label lblPerimetro;
         private System.Windows.Forms.GroupBox grbImagenes;
-        private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.ComboBox cmbNlados;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

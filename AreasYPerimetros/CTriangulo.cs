@@ -11,16 +11,11 @@ namespace AreasYPerimetros
     internal class CTriangulo
     {
         private static CTriangulo instancia = null;
-        private float lado;
+        private float lado0, lado1, lado2;
 
         public CTriangulo()
         {
-            lado = 0.0f;
-        }
-
-        public CTriangulo(float lado)
-        {
-            this.lado = lado;
+            lado0 = lado1 = lado2 = 0.0f;
         }
 
         public static CTriangulo GetInstance()
@@ -30,11 +25,13 @@ namespace AreasYPerimetros
             return instancia;
         }
 
-        public bool ReadData(TextBox txtLado)
+        public bool ReadData(TextBox txtLado0, TextBox txtLado1, TextBox txtLado2)
         {
             try
             {
-                lado = float.Parse(txtLado.Text);
+                lado0 = float.Parse(txtLado0.Text);
+                lado1 = float.Parse(txtLado1.Text);
+                lado2 = float.Parse(txtLado2.Text);
                 return true;
             }
             catch
@@ -45,17 +42,20 @@ namespace AreasYPerimetros
 
         public float CalcularPerimetro()
         {
-            return 3 * lado;
+            return lado0 + lado1 + lado2;
         }
 
         public float CalcularArea()
         {
-            return (float)((Math.Sqrt(3) / 4) * lado * lado);
+            float s = CalcularPerimetro() / 2;
+            return (float)Math.Sqrt(s * (s - lado0) * (s - lado1) * (s - lado2));
         }
 
-        public void ResetForm(TextBox txtLado, TextBox txtArea, TextBox txtPerimetro)
+        public void ResetForm(TextBox txtLado0, TextBox txtLado1, TextBox txtLado2, TextBox txtArea, TextBox txtPerimetro)
         {
-            txtLado.Text = "";
+            txtLado0.Text = "";
+            txtLado1.Text = "";
+            txtLado2.Text = "";
             txtArea.Text = "";
             txtPerimetro.Text = "";
         }

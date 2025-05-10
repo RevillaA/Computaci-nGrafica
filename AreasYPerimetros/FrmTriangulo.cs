@@ -33,7 +33,7 @@ namespace AreasYPerimetros
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            if (triangulo.ReadData(txtLado))
+            if (triangulo.ReadData(txtLado0, txtLado1, txtLado2))
             {
                 float perimetro = triangulo.CalcularPerimetro();
                 float area = triangulo.CalcularArea();
@@ -44,13 +44,13 @@ namespace AreasYPerimetros
             {
                 txtPerimetro.Text = "";
                 txtArea.Text = "";
-                MessageBox.Show("Ingrese un valor numérico válido para el lado.", "Error");
+                MessageBox.Show("Ingrese valores numéricos válidos para los lados.", "Error");
             }
         }        
 
         private void btnResetear_Click(object sender, EventArgs e)
         {
-            triangulo.ResetForm(txtLado, txtArea, txtPerimetro);
+            triangulo.ResetForm(txtLado0, txtLado1, txtLado2, txtArea, txtPerimetro);
         }
 
         private void btnSalir_Click(object sender, EventArgs e)

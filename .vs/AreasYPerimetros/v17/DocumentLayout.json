@@ -3,27 +3,55 @@
   "WorkspaceRootPath": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|a:\\computaci\u00F3n grafica\\areasyperimetros\\areasyperimetros\\frmpoligonos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\frmpoligonos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\cpoligonos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\cpoligonos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\frmromboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\frmromboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\frmovalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\frmovalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\frmrombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\frmrombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\frmtrapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\frmtrapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\frmrectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\frmrectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\frmrectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\frmrectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|a:\\computaci\u00F3n grafica\\areasyperimetros\\areasyperimetros\\frmtriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\frmtriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\frmc\u00EDrculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\frmc\u00EDrculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\frmcuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\frmcuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\frmdeltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\frmdeltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\frmelipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\frmelipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\frmpoligonos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\frmpoligonos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\frmtrapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\frmtrapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|a:\\computaci\u00F3n grafica\\areasyperimetros\\areasyperimetros\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,12 +59,23 @@
       "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\frmovalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\frmovalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\frmtriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\frmtriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\covalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\covalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AreasYPerimetros||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\ctriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\ctriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\areasyperimetros\\frmtriangulo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E4F347-C283-4D11-B6DE-D4A83FB39499}|AreasYPerimetros\\AreasYPerimetros.csproj|solutionrelative:areasyperimetros\\frmtriangulo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,113 +85,235 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmHome.cs",
-              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmHome.cs",
-              "RelativeDocumentMoniker": "AreasYPerimetros\\FrmHome.cs",
-              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmHome.cs",
-              "RelativeToolTip": "AreasYPerimetros\\FrmHome.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAWwFsAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T23:51:34.11Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmPoligonos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmPoligonos.cs",
-              "RelativeDocumentMoniker": "AreasYPerimetros\\FrmPoligonos.cs",
-              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmPoligonos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "AreasYPerimetros\\FrmPoligonos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T00:18:07.328Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CPoligonos.cs",
-              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\CPoligonos.cs",
-              "RelativeDocumentMoniker": "AreasYPerimetros\\CPoligonos.cs",
-              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\CPoligonos.cs",
-              "RelativeToolTip": "AreasYPerimetros\\CPoligonos.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T00:10:00.33Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FrmRectangulo.cs",
-              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmRectangulo.cs",
-              "RelativeDocumentMoniker": "AreasYPerimetros\\FrmRectangulo.cs",
-              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmRectangulo.cs",
-              "RelativeToolTip": "AreasYPerimetros\\FrmRectangulo.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAtwC8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T00:06:10.54Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FrmOvalo.cs",
-              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmOvalo.cs",
-              "RelativeDocumentMoniker": "AreasYPerimetros\\FrmOvalo.cs",
-              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmOvalo.cs",
-              "RelativeToolTip": "AreasYPerimetros\\FrmOvalo.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAIAwwDMAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T00:05:41.848Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "FrmRectangulo.cs [Dise\u00F1o]",
               "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmRectangulo.cs",
               "RelativeDocumentMoniker": "AreasYPerimetros\\FrmRectangulo.cs",
               "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmRectangulo.cs [Dise\u00F1o]",
               "RelativeToolTip": "AreasYPerimetros\\FrmRectangulo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T23:53:13.278Z"
+              "WhenOpened": "2025-05-10T16:54:12.026Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "FrmRombo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmRombo.cs",
+              "RelativeDocumentMoniker": "AreasYPerimetros\\FrmRombo.cs",
+              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmRombo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AreasYPerimetros\\FrmRombo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:54:17.439Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmTrapecio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmTrapecio.cs",
+              "RelativeDocumentMoniker": "AreasYPerimetros\\FrmTrapecio.cs",
+              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmTrapecio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AreasYPerimetros\\FrmTrapecio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:54:25.918Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FrmOvalo.cs [Dise\u00F1o]",
               "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmOvalo.cs",
               "RelativeDocumentMoniker": "AreasYPerimetros\\FrmOvalo.cs",
               "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmOvalo.cs [Dise\u00F1o]",
               "RelativeToolTip": "AreasYPerimetros\\FrmOvalo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T23:52:38.184Z"
+              "WhenOpened": "2025-05-10T16:54:01.246Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "COvalo.cs",
-              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\COvalo.cs",
-              "RelativeDocumentMoniker": "AreasYPerimetros\\COvalo.cs",
-              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\COvalo.cs",
-              "RelativeToolTip": "AreasYPerimetros\\COvalo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FrmRomboide.cs [Dise\u00F1o]",
+              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmRomboide.cs",
+              "RelativeDocumentMoniker": "AreasYPerimetros\\FrmRomboide.cs",
+              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmRomboide.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AreasYPerimetros\\FrmRomboide.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T23:51:58.045Z"
+              "WhenOpened": "2025-05-10T16:54:22.006Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmTriangulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmTriangulo.cs",
+              "RelativeDocumentMoniker": "AreasYPerimetros\\FrmTriangulo.cs",
+              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmTriangulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AreasYPerimetros\\FrmTriangulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:49:59.163Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmPoligonos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmPoligonos.cs",
+              "RelativeDocumentMoniker": "AreasYPerimetros\\FrmPoligonos.cs",
+              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmPoligonos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AreasYPerimetros\\FrmPoligonos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:54:05.087Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "FrmC\u00EDrculo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmC\u00EDrculo.cs",
+              "RelativeDocumentMoniker": "AreasYPerimetros\\FrmC\u00EDrculo.cs",
+              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmC\u00EDrculo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AreasYPerimetros\\FrmC\u00EDrculo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:53:33.545Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmCuadrado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmCuadrado.cs",
+              "RelativeDocumentMoniker": "AreasYPerimetros\\FrmCuadrado.cs",
+              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmCuadrado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AreasYPerimetros\\FrmCuadrado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:53:38.09Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmDeltoide.cs [Dise\u00F1o]",
+              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmDeltoide.cs",
+              "RelativeDocumentMoniker": "AreasYPerimetros\\FrmDeltoide.cs",
+              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmDeltoide.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AreasYPerimetros\\FrmDeltoide.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:53:44.341Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmElipse.cs [Dise\u00F1o]",
+              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmElipse.cs",
+              "RelativeDocumentMoniker": "AreasYPerimetros\\FrmElipse.cs",
+              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmElipse.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AreasYPerimetros\\FrmElipse.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:53:49.522Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmTrapezoide.cs [Dise\u00F1o]",
+              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmTrapezoide.cs",
+              "RelativeDocumentMoniker": "AreasYPerimetros\\FrmTrapezoide.cs",
+              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmTrapezoide.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AreasYPerimetros\\FrmTrapezoide.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:54:30.576Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmHome.cs",
+              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmHome.cs",
+              "RelativeDocumentMoniker": "AreasYPerimetros\\FrmHome.cs",
+              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmHome.cs",
+              "RelativeToolTip": "AreasYPerimetros\\FrmHome.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwFEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:16:43.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "FrmHome.cs [Dise\u00F1o]",
               "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmHome.cs",
               "RelativeDocumentMoniker": "AreasYPerimetros\\FrmHome.cs",
               "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmHome.cs [Dise\u00F1o]",
               "RelativeToolTip": "AreasYPerimetros\\FrmHome.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T22:03:34.148Z"
+              "WhenOpened": "2025-05-10T16:53:59.417Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CTriangulo.cs",
+              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\CTriangulo.cs",
+              "RelativeDocumentMoniker": "AreasYPerimetros\\CTriangulo.cs",
+              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\CTriangulo.cs",
+              "RelativeToolTip": "AreasYPerimetros\\CTriangulo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:09:41.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmTriangulo.cs",
+              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmTriangulo.cs",
+              "RelativeDocumentMoniker": "AreasYPerimetros\\FrmTriangulo.cs",
+              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmTriangulo.cs",
+              "RelativeToolTip": "AreasYPerimetros\\FrmTriangulo.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:13:08.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AreasYPerimetros",
+              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\AreasYPerimetros.csproj",
+              "RelativeDocumentMoniker": "AreasYPerimetros\\AreasYPerimetros.csproj",
+              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\AreasYPerimetros.csproj",
+              "RelativeToolTip": "AreasYPerimetros\\AreasYPerimetros.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-10T16:59:23.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "AreasYPerimetros\\Properties\\Resources.resx",
+              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\Properties\\Resources.resx",
+              "RelativeToolTip": "AreasYPerimetros\\Properties\\Resources.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwJwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-10T16:59:40.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmTriangulo.Designer.cs",
+              "DocumentMoniker": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmTriangulo.Designer.cs",
+              "RelativeDocumentMoniker": "AreasYPerimetros\\FrmTriangulo.Designer.cs",
+              "ToolTip": "A:\\Computaci\u00F3n Grafica\\AreasYPerimetros\\AreasYPerimetros\\FrmTriangulo.Designer.cs",
+              "RelativeToolTip": "AreasYPerimetros\\FrmTriangulo.Designer.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAADgv8gAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:50:00.604Z"
             }
           ]
         }

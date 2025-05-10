@@ -67,17 +67,17 @@
             // txtEjeMenor
             // 
             this.txtEjeMenor.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtEjeMenor.Location = new System.Drawing.Point(206, 77);
+            this.txtEjeMenor.Location = new System.Drawing.Point(208, 77);
             this.txtEjeMenor.Name = "txtEjeMenor";
-            this.txtEjeMenor.Size = new System.Drawing.Size(86, 34);
+            this.txtEjeMenor.Size = new System.Drawing.Size(86, 28);
             this.txtEjeMenor.TabIndex = 3;
             // 
             // txtEjeMayor
             // 
             this.txtEjeMayor.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtEjeMayor.Location = new System.Drawing.Point(204, 21);
+            this.txtEjeMayor.Location = new System.Drawing.Point(206, 21);
             this.txtEjeMayor.Name = "txtEjeMayor";
-            this.txtEjeMayor.Size = new System.Drawing.Size(86, 34);
+            this.txtEjeMayor.Size = new System.Drawing.Size(86, 28);
             this.txtEjeMayor.TabIndex = 2;
             // 
             // lblEjeb
@@ -86,7 +86,7 @@
             this.lblEjeb.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblEjeb.Location = new System.Drawing.Point(32, 77);
             this.lblEjeb.Name = "lblEjeb";
-            this.lblEjeb.Size = new System.Drawing.Size(166, 29);
+            this.lblEjeb.Size = new System.Drawing.Size(131, 24);
             this.lblEjeb.TabIndex = 1;
             this.lblEjeb.Text = "Eje menor (b):";
             // 
@@ -96,7 +96,7 @@
             this.lblEjea.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblEjea.Location = new System.Drawing.Point(36, 24);
             this.lblEjea.Name = "lblEjea";
-            this.lblEjea.Size = new System.Drawing.Size(162, 29);
+            this.lblEjea.Size = new System.Drawing.Size(127, 24);
             this.lblEjea.TabIndex = 0;
             this.lblEjea.Text = "Eje mayor (a):";
             // 
@@ -164,36 +164,36 @@
             this.lblArea.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblArea.Location = new System.Drawing.Point(75, 107);
             this.lblArea.Name = "lblArea";
-            this.lblArea.Size = new System.Drawing.Size(106, 29);
+            this.lblArea.Size = new System.Drawing.Size(90, 24);
             this.lblArea.TabIndex = 3;
-            this.lblArea.Text = "Area (A):";
+            this.lblArea.Text = " Área (A):";
             // 
             // lblPerimetro
             // 
             this.lblPerimetro.AutoSize = true;
             this.lblPerimetro.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPerimetro.Location = new System.Drawing.Point(19, 47);
+            this.lblPerimetro.Location = new System.Drawing.Point(35, 50);
             this.lblPerimetro.Name = "lblPerimetro";
-            this.lblPerimetro.Size = new System.Drawing.Size(163, 29);
+            this.lblPerimetro.Size = new System.Drawing.Size(125, 24);
             this.lblPerimetro.TabIndex = 2;
-            this.lblPerimetro.Text = "Perimetro (P):";
+            this.lblPerimetro.Text = "Perímetro (P):";
             // 
             // txtArea
             // 
             this.txtArea.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtArea.Location = new System.Drawing.Point(188, 105);
+            this.txtArea.Location = new System.Drawing.Point(190, 105);
             this.txtArea.Name = "txtArea";
             this.txtArea.ReadOnly = true;
-            this.txtArea.Size = new System.Drawing.Size(81, 34);
+            this.txtArea.Size = new System.Drawing.Size(81, 28);
             this.txtArea.TabIndex = 1;
             // 
             // txtPerimetro
             // 
             this.txtPerimetro.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtPerimetro.Location = new System.Drawing.Point(188, 46);
+            this.txtPerimetro.Location = new System.Drawing.Point(190, 46);
             this.txtPerimetro.Name = "txtPerimetro";
             this.txtPerimetro.ReadOnly = true;
-            this.txtPerimetro.Size = new System.Drawing.Size(81, 34);
+            this.txtPerimetro.Size = new System.Drawing.Size(81, 28);
             this.txtPerimetro.TabIndex = 0;
             // 
             // grbImagen
@@ -209,7 +209,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::AreasYPerimetros.Properties.Resources.Elipse_300x220;
-            this.pictureBox1.Location = new System.Drawing.Point(13, 25);
+            this.pictureBox1.Location = new System.Drawing.Point(14, 23);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(400, 400);
             this.pictureBox1.TabIndex = 0;
@@ -243,7 +243,6 @@
         private System.Windows.Forms.GroupBox grbProcesos;
         private System.Windows.Forms.GroupBox grbSalidas;
         private System.Windows.Forms.GroupBox grbImagen;
-        private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.TextBox txtEjeMenor;
         private System.Windows.Forms.TextBox txtEjeMayor;
         private System.Windows.Forms.Label lblEjeb;
@@ -255,5 +254,6 @@
         private System.Windows.Forms.Label lblPerimetro;
         private System.Windows.Forms.TextBox txtArea;
         private System.Windows.Forms.TextBox txtPerimetro;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

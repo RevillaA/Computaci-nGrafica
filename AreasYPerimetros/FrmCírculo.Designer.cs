@@ -66,16 +66,16 @@
             this.lblRadio.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblRadio.Location = new System.Drawing.Point(83, 48);
             this.lblRadio.Name = "lblRadio";
-            this.lblRadio.Size = new System.Drawing.Size(122, 29);
+            this.lblRadio.Size = new System.Drawing.Size(94, 24);
             this.lblRadio.TabIndex = 1;
             this.lblRadio.Text = "Radio (R):";
             // 
             // txtRadio
             // 
             this.txtRadio.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtRadio.Location = new System.Drawing.Point(210, 45);
+            this.txtRadio.Location = new System.Drawing.Point(212, 45);
             this.txtRadio.Name = "txtRadio";
-            this.txtRadio.Size = new System.Drawing.Size(108, 34);
+            this.txtRadio.Size = new System.Drawing.Size(108, 28);
             this.txtRadio.TabIndex = 0;
             // 
             // grbProceso
@@ -139,19 +139,19 @@
             // txtArea
             // 
             this.txtArea.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtArea.Location = new System.Drawing.Point(210, 110);
+            this.txtArea.Location = new System.Drawing.Point(212, 110);
             this.txtArea.Name = "txtArea";
             this.txtArea.ReadOnly = true;
-            this.txtArea.Size = new System.Drawing.Size(108, 34);
+            this.txtArea.Size = new System.Drawing.Size(108, 28);
             this.txtArea.TabIndex = 3;
             // 
             // txtPerimetro
             // 
             this.txtPerimetro.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtPerimetro.Location = new System.Drawing.Point(210, 50);
+            this.txtPerimetro.Location = new System.Drawing.Point(212, 50);
             this.txtPerimetro.Name = "txtPerimetro";
             this.txtPerimetro.ReadOnly = true;
-            this.txtPerimetro.Size = new System.Drawing.Size(108, 34);
+            this.txtPerimetro.Size = new System.Drawing.Size(108, 28);
             this.txtPerimetro.TabIndex = 2;
             // 
             // lblArea
@@ -160,7 +160,7 @@
             this.lblArea.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblArea.Location = new System.Drawing.Point(92, 113);
             this.lblArea.Name = "lblArea";
-            this.lblArea.Size = new System.Drawing.Size(112, 29);
+            this.lblArea.Size = new System.Drawing.Size(90, 24);
             this.lblArea.TabIndex = 1;
             this.lblArea.Text = " Área (A):";
             // 
@@ -170,7 +170,7 @@
             this.lblPerimetro.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPerimetro.Location = new System.Drawing.Point(40, 53);
             this.lblPerimetro.Name = "lblPerimetro";
-            this.lblPerimetro.Size = new System.Drawing.Size(163, 29);
+            this.lblPerimetro.Size = new System.Drawing.Size(125, 24);
             this.lblPerimetro.TabIndex = 0;
             this.lblPerimetro.Text = "Perímetro (P):";
             // 
@@ -187,7 +187,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::AreasYPerimetros.Properties.Resources.circulo_300x300;
-            this.pictureBox1.Location = new System.Drawing.Point(9, 20);
+            this.pictureBox1.Location = new System.Drawing.Point(13, 17);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(400, 400);
             this.pictureBox1.TabIndex = 0;
@@ -228,8 +228,8 @@
         private System.Windows.Forms.Label lblArea;
         private System.Windows.Forms.Label lblPerimetro;
         private System.Windows.Forms.GroupBox grbImagen;
-        private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label lblRadio;
         private System.Windows.Forms.TextBox txtRadio;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

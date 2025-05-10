@@ -75,33 +75,33 @@
             // txtLado
             // 
             this.txtLado.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtLado.Location = new System.Drawing.Point(218, 142);
+            this.txtLado.Location = new System.Drawing.Point(222, 142);
             this.txtLado.Name = "txtLado";
-            this.txtLado.Size = new System.Drawing.Size(73, 30);
+            this.txtLado.Size = new System.Drawing.Size(73, 26);
             this.txtLado.TabIndex = 7;
             // 
             // txtAltura
             // 
             this.txtAltura.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtAltura.Location = new System.Drawing.Point(218, 100);
+            this.txtAltura.Location = new System.Drawing.Point(222, 100);
             this.txtAltura.Name = "txtAltura";
-            this.txtAltura.Size = new System.Drawing.Size(73, 30);
+            this.txtAltura.Size = new System.Drawing.Size(73, 26);
             this.txtAltura.TabIndex = 6;
             // 
             // txtBaseMenor
             // 
             this.txtBaseMenor.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtBaseMenor.Location = new System.Drawing.Point(218, 62);
+            this.txtBaseMenor.Location = new System.Drawing.Point(222, 62);
             this.txtBaseMenor.Name = "txtBaseMenor";
-            this.txtBaseMenor.Size = new System.Drawing.Size(73, 30);
+            this.txtBaseMenor.Size = new System.Drawing.Size(73, 26);
             this.txtBaseMenor.TabIndex = 5;
             // 
             // txtBaseMayor
             // 
             this.txtBaseMayor.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtBaseMayor.Location = new System.Drawing.Point(218, 21);
+            this.txtBaseMayor.Location = new System.Drawing.Point(222, 21);
             this.txtBaseMayor.Name = "txtBaseMayor";
-            this.txtBaseMayor.Size = new System.Drawing.Size(73, 30);
+            this.txtBaseMayor.Size = new System.Drawing.Size(73, 26);
             this.txtBaseMayor.TabIndex = 4;
             // 
             // lblLado
@@ -110,7 +110,7 @@
             this.lblLado.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblLado.Location = new System.Drawing.Point(126, 146);
             this.lblLado.Name = "lblLado";
-            this.lblLado.Size = new System.Drawing.Size(85, 25);
+            this.lblLado.Size = new System.Drawing.Size(66, 20);
             this.lblLado.TabIndex = 3;
             this.lblLado.Text = "Lado (l):";
             // 
@@ -120,7 +120,7 @@
             this.lblAltura.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAltura.Location = new System.Drawing.Point(116, 103);
             this.lblAltura.Name = "lblAltura";
-            this.lblAltura.Size = new System.Drawing.Size(99, 25);
+            this.lblAltura.Size = new System.Drawing.Size(78, 20);
             this.lblAltura.TabIndex = 2;
             this.lblAltura.Text = "Altura (h):";
             // 
@@ -130,7 +130,7 @@
             this.lblBaseMenor.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblBaseMenor.Location = new System.Drawing.Point(56, 64);
             this.lblBaseMenor.Name = "lblBaseMenor";
-            this.lblBaseMenor.Size = new System.Drawing.Size(159, 25);
+            this.lblBaseMenor.Size = new System.Drawing.Size(126, 20);
             this.lblBaseMenor.TabIndex = 1;
             this.lblBaseMenor.Text = "Base Menor (m):";
             // 
@@ -140,7 +140,7 @@
             this.lblBaseMayor.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblBaseMayor.Location = new System.Drawing.Point(56, 25);
             this.lblBaseMayor.Name = "lblBaseMayor";
-            this.lblBaseMayor.Size = new System.Drawing.Size(155, 25);
+            this.lblBaseMayor.Size = new System.Drawing.Size(122, 20);
             this.lblBaseMayor.TabIndex = 0;
             this.lblBaseMayor.Text = "Base Mayor (B):";
             // 
@@ -205,17 +205,17 @@
             // txtArea
             // 
             this.txtArea.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtArea.Location = new System.Drawing.Point(211, 77);
+            this.txtArea.Location = new System.Drawing.Point(215, 77);
             this.txtArea.Name = "txtArea";
-            this.txtArea.Size = new System.Drawing.Size(88, 34);
+            this.txtArea.Size = new System.Drawing.Size(88, 28);
             this.txtArea.TabIndex = 3;
             // 
             // txtPerimetro
             // 
             this.txtPerimetro.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtPerimetro.Location = new System.Drawing.Point(211, 31);
+            this.txtPerimetro.Location = new System.Drawing.Point(215, 31);
             this.txtPerimetro.Name = "txtPerimetro";
-            this.txtPerimetro.Size = new System.Drawing.Size(88, 34);
+            this.txtPerimetro.Size = new System.Drawing.Size(88, 28);
             this.txtPerimetro.TabIndex = 2;
             // 
             // lblArea
@@ -224,19 +224,19 @@
             this.lblArea.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblArea.Location = new System.Drawing.Point(99, 80);
             this.lblArea.Name = "lblArea";
-            this.lblArea.Size = new System.Drawing.Size(106, 29);
+            this.lblArea.Size = new System.Drawing.Size(90, 24);
             this.lblArea.TabIndex = 1;
-            this.lblArea.Text = "Area (A):";
+            this.lblArea.Text = " Área (A):";
             // 
             // lblPerimetro
             // 
             this.lblPerimetro.AutoSize = true;
             this.lblPerimetro.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPerimetro.Location = new System.Drawing.Point(42, 34);
+            this.lblPerimetro.Location = new System.Drawing.Point(55, 32);
             this.lblPerimetro.Name = "lblPerimetro";
-            this.lblPerimetro.Size = new System.Drawing.Size(163, 29);
+            this.lblPerimetro.Size = new System.Drawing.Size(125, 24);
             this.lblPerimetro.TabIndex = 0;
-            this.lblPerimetro.Text = "Perimetro (P):";
+            this.lblPerimetro.Text = "Perímetro (P):";
             // 
             // grbImagenes
             // 
@@ -251,7 +251,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::AreasYPerimetros.Properties.Resources.Trapezoid_300x220;
-            this.pictureBox1.Location = new System.Drawing.Point(11, 20);
+            this.pictureBox1.Location = new System.Drawing.Point(11, 18);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(400, 400);
             this.pictureBox1.TabIndex = 0;

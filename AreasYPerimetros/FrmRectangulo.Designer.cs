@@ -43,12 +43,12 @@
             this.lblArea = new System.Windows.Forms.Label();
             this.lblPerimetro = new System.Windows.Forms.Label();
             this.grbImagen = new System.Windows.Forms.GroupBox();
-            this.pcbImagen = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.grbEntradas.SuspendLayout();
             this.grbProcesos.SuspendLayout();
             this.grbSalidas.SuspendLayout();
             this.grbImagen.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pcbImagen)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // grbEntradas
@@ -67,17 +67,17 @@
             // txtAltura
             // 
             this.txtAltura.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtAltura.Location = new System.Drawing.Point(189, 72);
+            this.txtAltura.Location = new System.Drawing.Point(191, 72);
             this.txtAltura.Name = "txtAltura";
-            this.txtAltura.Size = new System.Drawing.Size(75, 34);
+            this.txtAltura.Size = new System.Drawing.Size(75, 28);
             this.txtAltura.TabIndex = 3;
             // 
             // txtBase
             // 
             this.txtBase.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtBase.Location = new System.Drawing.Point(189, 27);
+            this.txtBase.Location = new System.Drawing.Point(191, 27);
             this.txtBase.Name = "txtBase";
-            this.txtBase.Size = new System.Drawing.Size(72, 34);
+            this.txtBase.Size = new System.Drawing.Size(72, 28);
             this.txtBase.TabIndex = 2;
             // 
             // lblAltura
@@ -86,7 +86,7 @@
             this.lblAltura.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAltura.Location = new System.Drawing.Point(68, 75);
             this.lblAltura.Name = "lblAltura";
-            this.lblAltura.Size = new System.Drawing.Size(115, 29);
+            this.lblAltura.Size = new System.Drawing.Size(90, 24);
             this.lblAltura.TabIndex = 1;
             this.lblAltura.Text = "Altura (a):";
             // 
@@ -96,7 +96,7 @@
             this.lblBase.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblBase.Location = new System.Drawing.Point(72, 28);
             this.lblBase.Name = "lblBase";
-            this.lblBase.Size = new System.Drawing.Size(110, 29);
+            this.lblBase.Size = new System.Drawing.Size(85, 24);
             this.lblBase.TabIndex = 0;
             this.lblBase.Text = "Base (b):";
             // 
@@ -161,19 +161,19 @@
             // txtArea
             // 
             this.txtArea.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtArea.Location = new System.Drawing.Point(194, 103);
+            this.txtArea.Location = new System.Drawing.Point(196, 103);
             this.txtArea.Name = "txtArea";
             this.txtArea.ReadOnly = true;
-            this.txtArea.Size = new System.Drawing.Size(79, 34);
+            this.txtArea.Size = new System.Drawing.Size(79, 28);
             this.txtArea.TabIndex = 3;
             // 
             // txtPerimetro
             // 
             this.txtPerimetro.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtPerimetro.Location = new System.Drawing.Point(193, 52);
+            this.txtPerimetro.Location = new System.Drawing.Point(195, 52);
             this.txtPerimetro.Name = "txtPerimetro";
             this.txtPerimetro.ReadOnly = true;
-            this.txtPerimetro.Size = new System.Drawing.Size(80, 34);
+            this.txtPerimetro.Size = new System.Drawing.Size(80, 28);
             this.txtPerimetro.TabIndex = 2;
             // 
             // lblArea
@@ -182,23 +182,23 @@
             this.lblArea.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblArea.Location = new System.Drawing.Point(82, 104);
             this.lblArea.Name = "lblArea";
-            this.lblArea.Size = new System.Drawing.Size(106, 29);
+            this.lblArea.Size = new System.Drawing.Size(90, 24);
             this.lblArea.TabIndex = 1;
-            this.lblArea.Text = "Area (A):";
+            this.lblArea.Text = " Área (A):";
             // 
             // lblPerimetro
             // 
             this.lblPerimetro.AutoSize = true;
             this.lblPerimetro.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPerimetro.Location = new System.Drawing.Point(27, 54);
+            this.lblPerimetro.Location = new System.Drawing.Point(38, 55);
             this.lblPerimetro.Name = "lblPerimetro";
-            this.lblPerimetro.Size = new System.Drawing.Size(163, 29);
+            this.lblPerimetro.Size = new System.Drawing.Size(125, 24);
             this.lblPerimetro.TabIndex = 0;
-            this.lblPerimetro.Text = "Perimetro (P):";
+            this.lblPerimetro.Text = "Perímetro (P):";
             // 
             // grbImagen
             // 
-            this.grbImagen.Controls.Add(this.pcbImagen);
+            this.grbImagen.Controls.Add(this.pictureBox1);
             this.grbImagen.Location = new System.Drawing.Point(388, 7);
             this.grbImagen.Name = "grbImagen";
             this.grbImagen.Size = new System.Drawing.Size(420, 429);
@@ -206,14 +206,14 @@
             this.grbImagen.TabStop = false;
             this.grbImagen.Text = "Imagen";
             // 
-            // pcbImagen
+            // pictureBox1
             // 
-            this.pcbImagen.Image = global::AreasYPerimetros.Properties.Resources.rectangulo_300x300;
-            this.pcbImagen.Location = new System.Drawing.Point(10, 19);
-            this.pcbImagen.Name = "pcbImagen";
-            this.pcbImagen.Size = new System.Drawing.Size(400, 400);
-            this.pcbImagen.TabIndex = 0;
-            this.pcbImagen.TabStop = false;
+            this.pictureBox1.Image = global::AreasYPerimetros.Properties.Resources.rectangulo_300x300;
+            this.pictureBox1.Location = new System.Drawing.Point(11, 20);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(400, 400);
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
             // 
             // FrmRectangulo
             // 
@@ -232,7 +232,7 @@
             this.grbSalidas.ResumeLayout(false);
             this.grbSalidas.PerformLayout();
             this.grbImagen.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pcbImagen)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -245,7 +245,6 @@
         private System.Windows.Forms.GroupBox grbProcesos;
         private System.Windows.Forms.GroupBox grbSalidas;
         private System.Windows.Forms.GroupBox grbImagen;
-        private System.Windows.Forms.PictureBox pcbImagen;
         private System.Windows.Forms.TextBox txtAltura;
         private System.Windows.Forms.TextBox txtBase;
         private System.Windows.Forms.Button btnSalir;
@@ -255,5 +254,6 @@
         private System.Windows.Forms.TextBox txtPerimetro;
         private System.Windows.Forms.Label lblArea;
         private System.Windows.Forms.Label lblPerimetro;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
